@@ -307,6 +307,9 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: 1.75rem; }
+    @media (max-width: 991.98px) {
+      h3, .h3 {
+        font-size: 1.1rem; } }  
 
 h4, .h4 {
   font-size: 1.5rem; }
@@ -8271,11 +8274,11 @@ h1, h2, h3, h4, h5,
     color: #fff;
     line-height: 1.2;
     font-family: "Montserrat", Arial, sans-serif;
-    font-size: 60px;
+    font-size: 45px;
     font-weight: 800; }
     @media (max-width: 991.98px) {
       .hero-wrap .slider-text h1 {
-        font-size: 40px; } }
+        font-size: 32px; } }
     .hero-wrap .slider-text h1 span {
       color: #00bd56; }
   .hero-wrap .slider-text .subheading {

@@ -1,0 +1,18 @@
+
+
+.contenedor-logo {
+  display: flex;
+}
+
+.imagen-logo {
+	height: 144px;
+	margin-right: 15px;
+}
+
+.texto-logo {
+	align-self: center;
+}
+
+.condensed {
+  font-stretch: 50%;
+}
